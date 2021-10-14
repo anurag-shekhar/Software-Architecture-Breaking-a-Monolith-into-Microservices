@@ -9,3 +9,10 @@
 ## Refactor or Rewrite?
 
 <img src='Images/rewrite.png'>
+
+<br>
+<br>
+
+## Choosing your first migration target
+
+<img src='Images/selection.png'>
