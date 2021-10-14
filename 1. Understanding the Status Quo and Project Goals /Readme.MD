@@ -1,6 +1,7 @@
-## Start with 'WHY'
-   <img src='https://github.com/anurag-shekhar/Software-Architecture-Breaking-a-Monolith-into-Microservices/blob/master/Images/GatheringGoals.png' width=800>
+## Start with 'WHY' && Defining Project Goals
 
-## Defining Project Goals
+<img src='Images/ProjectGoals.png' width =400>
 
-   <img src='https://github.com/anurag-shekhar/Software-Architecture-Breaking-a-Monolith-into-Microservices/blob/master/Images/ProjectGoals.png' width=800>
+## Understanding current architecture
+
+<img src='Images/currentArchitecture.png' width =400>
