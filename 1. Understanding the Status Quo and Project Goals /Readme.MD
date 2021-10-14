@@ -1,7 +1,10 @@
 ## Start with 'WHY' && Defining Project Goals
 
-<img src='Images/ProjectGoals.png' width =400>
+<img src='Images/ProjectGoals.png' >
+
+<br>
+<br>
 
 ## Understanding current architecture
 
-<img src='Images/currentArchitecture.png' width =400>
+<img src='Images/currentArchitecture.png' >
